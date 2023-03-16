@@ -5,6 +5,14 @@ window.ls.container
   .add({
     selector: "data-acl",
     controller: function(element, document, router, alerts) {
+      
+      
+      
+      
+      
+      
+      
+      
       document.body.classList.remove("console");
       document.body.classList.remove("home");
 
